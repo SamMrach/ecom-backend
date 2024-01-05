@@ -8,6 +8,16 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="order-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="product-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
