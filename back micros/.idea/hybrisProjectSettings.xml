@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HybrisProjectSettings">
+    <option name="moduleSettings">
+      <map>
+        <entry key="back micros">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="back-micros">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="inventory-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="order-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+        <entry key="product-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
