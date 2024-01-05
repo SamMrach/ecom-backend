@@ -8,6 +8,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="inventory-service">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="order-service">
           <value>
             <ModuleSettings />
