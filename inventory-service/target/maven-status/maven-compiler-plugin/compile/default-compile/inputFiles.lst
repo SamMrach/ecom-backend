@@ -1,0 +1,6 @@
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/dto/InventoryResponse.java
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/repository/InventoryRepository.java
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/service/InventoryService.java
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/controller/InventoryController.java
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/InventoryServiceApplication.java
+/home/smerrach/Bureau/side projects/ecom backend micros/inventory-service/src/main/java/com/merrach/inventoryservice/model/Inventory.java

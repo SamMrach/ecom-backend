@@ -1,0 +1,7 @@
+com/merrach/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/merrach/inventoryservice/model/Inventory.class
+com/merrach/inventoryservice/InventoryServiceApplication.class
+com/merrach/inventoryservice/controller/InventoryController.class
+com/merrach/inventoryservice/dto/InventoryResponse.class
+com/merrach/inventoryservice/service/InventoryService.class
+com/merrach/inventoryservice/repository/InventoryRepository.class

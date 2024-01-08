@@ -1,0 +1,7 @@
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/Repository/ProductRepository.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/dto/ProductResponse.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/dto/ProductRequest.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/model/Product.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/controller/ProductController.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/service/ProductService.java
+/home/smerrach/Bureau/side projects/ecom backend micros/product-service/src/main/java/com/merrach/productservice/ProductServiceApplication.java
