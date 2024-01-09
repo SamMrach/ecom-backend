@@ -3,6 +3,11 @@
   <component name="HybrisProjectSettings">
     <option name="moduleSettings">
       <map>
+        <entry key="api-gateway">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="discovery-server">
           <value>
             <ModuleSettings />
